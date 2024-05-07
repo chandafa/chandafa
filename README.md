@@ -11,7 +11,9 @@ Happy Coding! 😊
 
 <div align="center">
 
-![Candra](https://raw.githubusercontent.com/chandafa/itw2023_233040037/main/latihan/latihan6/img/bg-pp.gif)
+<div align="center">
+  <img height="400" src="https://raw.githubusercontent.com/chandafa/itw2023_233040037/main/latihan/latihan6/img/bg-pp.gif"  />
+</div>
 
 [![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
