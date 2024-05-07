@@ -11,9 +11,10 @@ Happy Coding! 😊
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/chandafa/itw2023_233040037/main/latihan/latihan6/img/bg-pp.gif">
+![Candra](https://raw.githubusercontent.com/chandafa/itw2023_233040037/main/latihan/latihan6/img/bg-pp.gif)
 
 [![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
+
 
 
 
@@ -24,6 +25,5 @@ Happy Coding! 😊
 <a href="https://www.instagram.com/chann.ck" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://candrakirana.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </div>
-
 
 ⭐ From [Chan IT]
