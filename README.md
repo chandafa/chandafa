@@ -11,7 +11,12 @@ Happy Coding! 😊
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/chandafa/itw2023_233040037/main/latihan/latihan6/img/bg-pp.gif">
+
 [![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
+
+
+
 
 <i>Follow me:</i><br>
 
