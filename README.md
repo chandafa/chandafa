@@ -12,8 +12,10 @@ Happy Coding! 😊
 <div align="center">
 
 <div align="center">
-  <img height="400" src="https://raw.githubusercontent.com/chandafa/itw2023_233040037/main/latihan/latihan6/img/bg-pp.gif"  />
+  <img height="350" src="https://raw.githubusercontent.com/chandafa/itw2023_233040037/main/latihan/latihan6/img/bg-pp.gif"  />
 </div>
+
+<br>
 
 [![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
