@@ -5,7 +5,7 @@
   </h2>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=I'm+Chandra+Kirana;A+Backend+Web+Developer;Specializing+in+Laravel+%26+Golang;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=I'm+Candra+Kirana;A+Backend+Web+Developer;Specializing+in+Laravel+%26+Golang;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,7 +13,7 @@
 
 ### 👨‍💻 Tentang Saya
 <p>
-  Saya Candra Kirana, seorang pengembang web yang antusias dari Indonesia, dengan fokus utama pada <b>Backend Development</b>. Saya senang memecahkan masalah kompleks dan membangun aplikasi web yang efisien dan skalabel.
+  Saya Candra Kirana Dev, seorang pengembang web yang antusias dari Indonesia, dengan fokus utama pada <b>Backend Development</b>. Saya senang memecahkan masalah kompleks dan membangun aplikasi web yang efisien dan skalabel.
   <br><br>
   🔭 Saya sedang mengerjakan beberapa proyek pribadi dengan <b>Laravel & Golang</b>.
   <br>
